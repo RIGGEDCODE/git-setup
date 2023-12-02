@@ -1,0 +1,10 @@
+path="~/linux-git-shorthands"
+alias gc="$path/git-checkout.sh"
+alias gfs="$path/git-fetch-switch.sh"
+alias gf="$path/git-fetch.sh"
+alias gs="$path/git-switch.sh"
+alias gb="$path/git-branch.sh"
+alias gp="$path/git-push.sh"
+alias gpp="$path/git-pull.sh"
+alias gcm="$path/git-commit-add.sh"
+

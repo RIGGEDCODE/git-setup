@@ -1,0 +1,6 @@
+# !/bin/bash
+
+rm -rf ~/linux-git-shorthands
+mkdir ~/linux-git-shorthands
+cp ./linux/* ~/linux-git-shorthands
+echo -e "#config for git shorthands\nsource ~/linux-git-shorthands/exports.sh" >>  ~/.bashrc
