@@ -3,4 +3,5 @@
 rm -rf ~/linux-git-shorthands
 mkdir ~/linux-git-shorthands
 cp ./linux/* ~/linux-git-shorthands
+# comment the line below if already added to bashrc or zshrc or any other terminals 
 echo -e "#config for git shorthands\nsource ~/linux-git-shorthands/exports.sh" >>  ~/.bashrc
