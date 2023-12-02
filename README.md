@@ -23,4 +23,4 @@ gcm  -> git-commit-add
 ```
 
 above are current shorthands
-contributions are welcomed
+contributions are welcomed v1.0
