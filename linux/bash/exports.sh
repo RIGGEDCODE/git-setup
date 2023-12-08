@@ -1,4 +1,4 @@
-path="~/linux-git-shorthands"
+path="~/linux-git-shorthands/bash"
 alias gc="$path/git-checkout.sh"
 alias gfs="$path/git-fetch-switch.sh"
 alias gf="$path/git-fetch.sh"
